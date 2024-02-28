@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="runtime">
+  <id>org.freedesktop.Sdk.Extension.roswell</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <name>Common Lisp programming language Sdk extension</name>
+  <summary>Common Lisp Roswell tool</summary>
+  <url type="homepage">https://roswell.github.io/</url>
+  <releases>
+    <release version="v23.10.14.114" date="2023-10-04"/>
+  </releases>
+</component>
